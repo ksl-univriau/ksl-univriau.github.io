@@ -6,7 +6,8 @@
 
  - Vicky Vernando Dasta [at]vickydasta
  - Benny Putra 
- - 
+ 
+
  # LICENSE 
 
-` CC 2.0 `
+` Creative Common C 2.0 `
