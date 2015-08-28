@@ -11,7 +11,9 @@ its design it self is inspired by [ardwort.com's](http://ardwort.com) design.
 - Other KSL UR Web Development Team members
 
 ## RELEASE
+
 - [ version 1 alpha ](https://github.com/vickydasta/ksl-univriau.github.io/releases/tag/v1-alpha)
+- [ version 1 beta ](https://github.com/vickydasta/ksl-univriau.github.io/releases/tag/v1-beta)
 
 ## LICENSE
 
