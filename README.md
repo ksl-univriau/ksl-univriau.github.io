@@ -1,19 +1,18 @@
-## KSL UR SITE SOURCE CODE
+## kode sumber website ksl-ur.or.id
 
-it's based on materializedcss & Google Material Design.
 its design it self is inspired by [ardwort.com's](http://ardwort.com) design. 
 
 ## maintained & designed by: 
 
-- vickydasta ( Vicky vernando Dasta ) as project leader
-- Benny Putra as maintainer and creative design
-- Rangga D. Putra as maintainer creative design
+- vickydasta 
+- Benny Putra 
 - Other KSL UR Web Development Team members
 
 ## RELEASE
 
 - [ version 1 alpha ](https://github.com/vickydasta/ksl-univriau.github.io/releases/tag/v1-alpha)
 - [ version 1 beta ](https://github.com/vickydasta/ksl-univriau.github.io/releases/tag/v1-beta)
+- [version 1](http://ksl-ur.or.id) 
 
 ## LICENSE
 
